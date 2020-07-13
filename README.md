@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, **Miggy** here! 👋  
+Currently a **Computer Science Student** who is passionate about software engineering and reverse-engineering stuffs.  
+  
 
-<!--
-**miggynowiggy/miggynowiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Current Languages and Frameworks:  
+  + HTML  
+  + CSS - SAAS - LESS  
+  + JavaScript  
+  + Vue  
+  + React  
+  + Node.js  
+  + Express.js  
+  + Python  
+  + Java  
+  + Spring Boot
+    
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 _I also have profound interests with the following:_  
+  
+  + Web Application Development  
+  + Data Science  
+  + Computer Vision  
+  + DevOps 
+  
+## You can reach me out on these following links  
+  + mendozajuanmiguel11@gmail.com  
+  + [Linkedin](https://www.linkedin.com/in/miggymendoza)
+  + [Facebook](https://web.facebook.com/migginimiggi)  
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
