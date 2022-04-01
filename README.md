@@ -26,7 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/miggymendoza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="miggymendoza" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miggynowiggy&show_icons=true&locale=en&layout=compact" alt="miggynowiggy" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miggynowiggy&show_icons=true&locale=en&layout=compact" alt="miggynowiggy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miggynowiggy&show_icons=true&locale=en" alt="miggynowiggy" /></p>
 
