@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://miggy.dev](https://miggy.dev)
 
-- 💬 Ask me about anything under the tech sun like **📈 career development, 💻 system implementation advises, 🌐 full-stack web development, and 📱 hybrid mobile development**
+- 💬 Ask me about anything under the tech sun like **📈 career development, 💻 system implementation advices, 🌐 full-stack web development, and 📱 hybrid mobile development**
 
 - 📫 You can reach me at **mendozajuanmiguel11@gmail.com**
 
