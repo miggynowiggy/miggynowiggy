@@ -11,7 +11,7 @@
 
 - 📄 Know more about my experiences [https://read.cv/miggymendoza](https://read.cv/miggymendoza)
 
-- ⚡ Fun fact **I am an avid 🎮 Tekken Player (Tekken 7), a 📷 hobbyisy photographer, and a multi-instrumentalist musician (🎹 Piano, 🎸 Guitar, and 🥁 Drums)**
+- ⚡ Fun fact **I am an avid 🎮 Tekken Player (Tekken 7), a 📷 hobbyist photographer, and a multi-instrumental musician (🎹 Piano, 🎸 Guitar, and 🥁 Drums)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
