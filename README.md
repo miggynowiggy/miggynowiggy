@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything under the tech sun like **📈 career development, 💻 system implementation advices, 🌐 full-stack web development, and 📱 hybrid mobile development**
 
-- 📫 You can reach me at **mendozajuanmiguel11@gmail.com**
+- 📫 You can reach me at **work@miggy.dev**
 
 - 📄 Know more about my experiences [https://read.cv/miggymendoza](https://read.cv/miggymendoza)
 
