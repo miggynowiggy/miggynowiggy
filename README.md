@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miggy</h1>
-<h3 align="center">A Software Engineer based in Manila, Philippines with 2+ years of experience in web application development and mobile development. By day, you can find me building intuitive and scaleable applications for start-ups and communities, helping them grow their services and reach.</h3>
+<h3 align="center">A Software Engineer based in Manila, Philippines with extensive experiences in full-stack web application development and mobile development. By day, you can find me building intuitive and scaleable applications for start-ups and communities, helping them grow their services and reach.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miggynowiggy&label=Profile%20views&color=0e75b6&style=flat" alt="miggynowiggy" /> </p>
 
